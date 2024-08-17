@@ -3,9 +3,14 @@
 # About Me
 My name is Bernardo and I am a Software QA Tester. Here you may see some of the documentation I have produced as well as general information about my skills and the tools I use and links to other resources. 
 
+## Links
+
+[CV](https://docs.google.com/document/d/1ApIhekOahIFYbsiGryh47EDJMvKqOvThhLErkhSsgWk/edit)
+
+[LinkedIn](https://www.linkedin.com/in/bernardo-neves-482535bb/)
+
 ## Tools
 ![Jira](https://img.shields.io/badge/Jira-14130f)
-![uTest](https://img.shields.io/badge/uTest-14130f)
 ![Qase](https://img.shields.io/badge/Qase-14130f)
 ![Figma](https://img.shields.io/badge/Figma-14130f)
 
@@ -28,9 +33,11 @@ My name is Bernardo and I am a Software QA Tester. Here you may see some of the 
 
 ## Testing Documentation
 [Bug Reports](https://bernardonvs.atlassian.net/issues/?jql=project+%3D+%22SBR%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiZTRlNjU3MDgyMDU3NDY1ZmE4ODgyYTcwMzIwYTNhZWUiLCJwIjoiaiJ9)
-[Checklists]()
-[Test Cases]()
-[Databases]()
-[Postman Collections]()
 
-Links
+[Checklists](https://docs.google.com/spreadsheets/d/1zimLdHjyhplPIi3nQUwnOAZ2NWSbIC8X7ptPLn-fRdA/edit?gid=0#gid=0)
+
+[Test Cases](https://docs.google.com/spreadsheets/d/1RBUVyvKAOzSThxcxVCwHQeJkxp1iGUbvN9xez1h4e4s/edit?gid=363622999#gid=363622999)
+
+[Databases]()
+
+[Postman Collections](https://www.postman.com/bernardonvs/workspace/projects/collection/34114059-dffab7cf-d377-4f9b-8bb1-78dec0655413?action=share&creator=34114059)
