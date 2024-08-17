@@ -13,6 +13,7 @@ My name is Bernardo and I am a Software QA Tester. Here you may see some of the 
 ![Jira](https://img.shields.io/badge/Jira-14130f)
 ![Qase](https://img.shields.io/badge/Qase-14130f)
 ![Figma](https://img.shields.io/badge/Figma-14130f)
+![CI/CD](https://img.shields.io/badge/CI/CD-14130f)
 
 ![DevTools](https://img.shields.io/badge/DevTools-14130f)
 ![SoapUI](https://img.shields.io/badge/SoapUI-14130f)
