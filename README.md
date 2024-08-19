@@ -26,6 +26,7 @@ My name is Bernardo and I am a Software QA Tester. Here you may see some of the 
 
 ![MySQL](https://img.shields.io/badge/MySQL-14130f)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14130f)
+![MongoDB](https://img.shields.io/badge/MongoDB-14130f)
 
 ![Git](https://img.shields.io/badge/Git-14130f)
 ![Bash](https://img.shields.io/badge/Bash-14130f)
