@@ -34,7 +34,7 @@ My name is Bernardo and I am a Software QA Tester. Here you may see some of the 
 ![Vim](https://img.shields.io/badge/Vim-14130f)
 
 ## Testing Documentation
-[Bug Reports](https://bernardonvs.atlassian.net/issues/?jql=project+%3D+%22SBR%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiZTRlNjU3MDgyMDU3NDY1ZmE4ODgyYTcwMzIwYTNhZWUiLCJwIjoiaiJ9)
+[Bug Reports](https://docs.google.com/spreadsheets/d/1q3QGokE62y-T-KEOP2ZzsVms5NfCWBx9vXBQGg1adBU/edit?usp=sharing)
 
 [Checklists](https://docs.google.com/spreadsheets/d/1zimLdHjyhplPIi3nQUwnOAZ2NWSbIC8X7ptPLn-fRdA/edit?gid=0#gid=0)
 
